@@ -22,7 +22,7 @@ This project automates the process of logging incoming emails into an Excel file
 
 
 ## Files Included
-- flow_export.zip: The exported flow
+- email-to-excel-tracker.zip: The exported flow
 - email_tracker.xlsx: Sample Excel with formatted table
 - screenshots: Images of the flow steps
 
@@ -31,10 +31,3 @@ This project automates the process of logging incoming emails into an Excel file
 2. Connect to your Outlook and Excel accounts
 3. Customize filters or fields if needed
 4. Run the flow and test with a sample email
-
-
-## Screenshots
-- 01_flow_overview.png
-- 02_excel_mapping.png
-- 03_excel_output.png
-
