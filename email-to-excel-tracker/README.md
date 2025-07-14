@@ -11,7 +11,7 @@ This project automates the process of logging incoming emails into an Excel file
 - Can be customized to track only specific emails (based on subject or sender)
 
 ## Use Cases
-- Logging job applications or support requests
+- List all emails from a specific domian name 
 - Collecting daily documents or reports sent via email
 - Tracking form submissions sent to a shared inbox
 
@@ -27,7 +27,6 @@ This project automates the process of logging incoming emails into an Excel file
 - screenshots/: Images of the flow steps
 
 ## How to Use
-
 1. Import the flow in Power Automate
 2. Connect to your Outlook and Excel accounts
 3. Customize filters or fields if needed
@@ -35,6 +34,7 @@ This project automates the process of logging incoming emails into an Excel file
 
 
 ## Screenshots
-
-
+- 01_flow_overview.png
+- 02_excel_mapping.png
+- 03_excel_output.png
 
